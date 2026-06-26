@@ -1,4 +1,4 @@
-# telco-churn-prediction-ml
+# telco-churn-prediction-ml 
 # Overview
 
 This project predicts customer churn for a telecom company and segments customers using machine learning. It helps identify customers likely to leave and understand key behavior patterns.
